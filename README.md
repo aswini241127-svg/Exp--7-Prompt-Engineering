@@ -57,6 +57,8 @@ Compare original and generated images.
 Document differences and improvements.
 
 Output:
+[Exp7_Image_Generation_Report_Detailed.pdf](https://github.com/user-attachments/files/28424325/Exp7_Image_Generation_Report_Detailed.pdf)
+
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
